@@ -3,8 +3,8 @@ page_type: Training
 languages:
 - pyspark, sql, python, sql
 products:
-- azure-synapse-analytics-service
-- azure-machine-learning-service
+- Azure synapse Analytics Service
+- Azure Machine Learning Service
 description: "Advanced Azure Data Analytics Training "
 ---
 
@@ -16,13 +16,18 @@ Advanced Azure Data Analytics Day
 - 게임사에 Needs에 초점맞춰 개념부터 Hand-on Lab까지 Ons-Stop 진행 구성
 - Azure Synapse Analytics로 통합된 환경에서 데이터 처리 및 분석하는 활용법 Training (ingest, explore, prepare, manage, machine learning, BI) 
 
-## AAA Day : ① Azure Synapse Analytics
-## Training Session Agenda
+## AAA Day Training Agenda
+- ① : Azure Synapse Analytics를 활용한 User Segmentation기반의 Target Marketing
+- ② : Azure Machine Learning Service를 활용한 Abuser Detection
+- ③ : Azure Cognitive Service를 활용한 챗봇 및 in-game translation 개발 
+
+## AAA Day : Azure Synapse Analytics Training
+## Session Index
 
 - Part0 : Overview
-- Part1 : 
-- Part2 :
-- Part3 :
+- Part1 : SQL pool
+- Part2 : Apache Spark pool
+- Part3 : ML Modeling ( Code-Free & Apache Spark MLlib )
 
 ## Azure Synapse Analytics Architecture
 
