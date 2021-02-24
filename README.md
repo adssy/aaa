@@ -1,7 +1,7 @@
 ---
 page_type: Training
 languages:
-- pyspark, sql, python, sql
+- pyspark, sql, python, scala
 products:
 - Azure synapse Analytics Service
 - Azure Machine Learning Service
