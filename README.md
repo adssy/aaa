@@ -16,6 +16,9 @@ Advanced Azure Data Analytics Day
 - Azure Synapse Analytics로 통합된 환경에서 데이터 처리 및 분석하는 활용법 Training (ingest, explore, prepare, manage, machine learning, BI) 
 
 
-## AAA Day : Azure Synapse Analytics
+## ① AAA Day : Azure Synapse Analytics
+---
+Azure Synapse Analytics
+---
 
 
