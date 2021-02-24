@@ -10,7 +10,7 @@ description: "Advanced Azure Data Analytics Training "
 
 ## AAA Day 란?
 ---
-Advanced Azure Data Analytics Training Day
+**Advanced Azure Data Analytics Training Day**
 ---
 - 게임사를 위한 Advanced Azure Data Analytics Training Day
 - Azure 최대 레퍼런스를 보유한 Cloocus가 진행하는 Data Analytics Training Session
