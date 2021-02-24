@@ -18,5 +18,6 @@ Advanced Azure Data Analytics Day
 
 ## Azure Synapse Analytics
 Azure Synapse Analytics Architecture
+
 ![Azure Synapse Architecture2](https://user-images.githubusercontent.com/74857336/108941718-e68c6800-7698-11eb-9834-bc7576e1d05b.png)
 
