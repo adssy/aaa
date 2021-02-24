@@ -1,4 +1,4 @@
-# aaa
+# AAA
 Advanced Analytics Workshop
 ---
 page_type: Training
