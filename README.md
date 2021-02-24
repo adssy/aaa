@@ -7,9 +7,7 @@ products:
 - Azure Machine Learning Service
 description: "Advanced Azure Data Analytics Training "
 ---
-#
-#
-#
+
 ## AAA Day 란?
 Advanced Azure Data Analytics Day
 
