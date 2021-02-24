@@ -20,5 +20,5 @@ Advanced Azure Data Analytics Day
 ---
 Azure Synapse Analytics
 ---
-(./media/Azure Synapse Architecture.png)
+![Azure Synapse Architecture1](/media/Azure Synapse Architecture1.png)
 
