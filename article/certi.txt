@@ -1,3 +1,0 @@
-테넌트 = 46035bff-8b57-4e17-a067-3027f268640d
-서비스 주체 ID = Client ID : 460b8ea2-646e-4cea-9b62-9299f1e8fd03
-서비스 주체 키 = Key 값 : sTsd_PM2FQu__Q3D~2Cc89SI.IdzX0bO4M 
