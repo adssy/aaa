@@ -23,7 +23,7 @@ Advanced Azure Data Analytics Day
 
 
 ## ① AAA Day : Azure Synapse Analytics Training
-## ① Agenda Index (Azure Synapse Analytics)
+###  Agenda Index (Azure Synapse Analytics)
 
 - Part0 : Overview
 - Part1 : SQL pool
@@ -34,3 +34,4 @@ Advanced Azure Data Analytics Day
 
 ![Azure Synapse Analytics Architecture2](https://user-images.githubusercontent.com/74857336/108946896-b77af400-76a2-11eb-88fb-a02cef668063.png)
 
+## ② AAA Day : Azure Machine Learning Studio Training
