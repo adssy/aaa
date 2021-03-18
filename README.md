@@ -12,4 +12,4 @@ Advanced Azure Data Analytics Day
 - ③ : Azure Cognitive Service를 활용한 챗봇 및 in-game translation 개발 
 
 ## AAA Day Training Agenda
-![aaa_readme](https://user-images.githubusercontent.com/74857336/111575318-6ec1e100-87f1-11eb-9f63-8926888aa71b.png)
+![AAA Day Training Agenda3](https://user-images.githubusercontent.com/74857336/111577247-40460500-87f5-11eb-85eb-e6b327300981.png)
