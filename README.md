@@ -10,3 +10,7 @@ Advanced Azure Data Analytics Day
 - ① : Azure Synapse Analytics를 활용한 User Segmentation기반의 Target Marketing
 - ② : Azure Machine Learning Service를 활용한 Abuser Detection
 - ③ : Azure Cognitive Service를 활용한 챗봇 및 in-game translation 개발 
+
+##AAA Day Training Agenda
+
+![aaa_readme](https://user-images.githubusercontent.com/74857336/111575318-6ec1e100-87f1-11eb-9f63-8926888aa71b.png)
