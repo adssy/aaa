@@ -1,3 +1,0 @@
-테넌트 = Tenant ID :
-서비스 주체 ID = Client ID : 
-서비스 주체 키 = Key 값 : 
